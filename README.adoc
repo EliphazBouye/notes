@@ -1,1 +1,6 @@
 = All my notes
+
+[,python]
+----
+print('Hello friend.')
+----
